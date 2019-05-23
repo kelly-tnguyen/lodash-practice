@@ -1,0 +1,19 @@
+{
+  "name": "lodash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash.chunk": "^4.2.0",
+    "lodash.drop": "^4.1.1",
+    "lodash.join": "^4.0.1",
+    "lodash.reverse": "^4.0.1",
+    "lodash.shuffle": "^4.2.0",
+    "lodash.without": "^4.4.0"
+  }
+}
